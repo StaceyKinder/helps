@@ -1,5 +1,6 @@
-https://ipfs.io/ipfs/QmVGSFHXRkKU2NkgoAp8S7AkrJHjUBEdgywLngjBGJz2Rz|хостинг
-https://cloudflare-ipfs.com/ipfs/QmUuficeFYGhxHCvvszv25EipAUnurPNeHRAPYkn8G66aE|хостинг
+https://ipfs.io/ipfs/QmVGSFHXRkKU2NkgoAp8S7AkrJHjUBEdgywLngjBGJz2Rz|Защо хостинг в Jump
+https://cloudflare-ipfs.com/ipfs/QmUuficeFYGhxHCvvszv25EipAUnurPNeHRAPYkn8G66aE|хостинг Jump
+
 https://buttondown.email/dori/archive/|Dorina Archive
 https://buttondown.email/dori/|Dorina
 https://flote.app/user/devica|Flote Devica
