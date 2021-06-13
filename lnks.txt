@@ -34,3 +34,17 @@ https://delhip.azurewebsites.net/|Delhi
 https://migrationplanningassistant.azurewebsites.net/|Conversion Assistant
 https://uppqprepresentation.azurewebsites.net/|Delhi
 https://flighthub.azurewebsites.net/|Conversion Assistant
+
+https://vuejs.org/v2/examples/hackernews.html|HackerNews Clone — Vue.js
+https://www.cnblogs.com/lhb25/p/vue-express-server-hacknews.html|使用 Vue 2.0 实现服务端渲染的 HackerNews - 梦想天空（山边小溪） - 博客园
+https://segmentfault.com/a/1190000011862314|Vue 常用的过渡 - SegmentFault 思否
+http://googlecampusverhindern.blogsport.de/presse/|Presse « Google-Campus & Co verhindern!
+https://cnodejs.org/topic/58144f81cf18d0333412d2bf|vue 如何和 nodejs 前后端结合？ - CNode技术社区
+http://static2.cnodejs.org/topic/58144f81cf18d0333412d2bf|vue 如何和 nodejs 前后端结合？ - CNode技术社区
+http://caibaojian.com/vue/examples/hackernews.html|Vue HackerNews 克隆 · Vue.js教程
+https://blog.almaer.com/tag/web-development/page/6/|Web Development – Page 6
+https://devrant.com/rants/997664/well-i-wish-i-could-abandon-jquery-and-bootstrap-all-together-and-just-use-some|jquery - Well I wish I could abandon jQuery and bootstrap all together and just use some vuejs admin template with my Laravel app - devRant
+https://vuejsdevelopers.com/2018/01/29/vue-js-e2e-test-hacker-news/|End-To-End Testing A VueJS HackerNews Clone - Vue.js Developers
+https://hnpwa.com/|HNPWA
+http://www.mamicode.com/info-detail-1624784.html|使用 Vue 2.0 实现服务端渲染的 HackerNews
+
