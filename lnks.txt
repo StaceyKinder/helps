@@ -1,8 +1,3 @@
-https://ipfs.io/ipfs/QmVGSFHXRkKU2NkgoAp8S7AkrJHjUBEdgywLngjBGJz2Rz|Защо хостинг в Jump
-https://cloudflare-ipfs.com/ipfs/QmUuficeFYGhxHCvvszv25EipAUnurPNeHRAPYkn8G66aE|хостинг Jump
-
-https://buttondown.email/dori/archive/|Dorina Archive
-https://buttondown.email/dori/|Dorina
 https://flote.app/user/devica|Flote Devica
 https://flote.app/user/aglaya|Flote Aglaya
 https://flote.app/user/kortang|Flote Kortang
