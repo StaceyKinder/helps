@@ -35,6 +35,10 @@ https://migrationplanningassistant.azurewebsites.net/|Conversion Assistant
 https://uppqprepresentation.azurewebsites.net/|Delhi
 https://flighthub.azurewebsites.net/|Conversion Assistant
 
+https://vue-hn.vercel.app/|Vue HN
+https://www.notion.so/How-to-add-audio-to-video-f68d27d1ad5443a59ff6c0170ac4375b|Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://airtable.com/universe/expXwSbXCEpOrRHIR/hacker-news-readers-as-pwa|Hacker News readers as PWA - Airtable Universe
+
 https://vuejs.org/v2/examples/hackernews.html|HackerNews Clone — Vue.js
 https://www.cnblogs.com/lhb25/p/vue-express-server-hacknews.html|使用 Vue 2.0 实现服务端渲染的 HackerNews - 梦想天空（山边小溪） - 博客园
 https://segmentfault.com/a/1190000011862314|Vue 常用的过渡 - SegmentFault 思否
