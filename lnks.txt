@@ -26,3 +26,5 @@ https://buttondown.email/dori/archive/introducing-elasticsearchnet-and-nest-100-
 https://buttondown.email/dori/archive/early-computer-generated-music-fascinates/|Early computer-generated music fascinates international virtual audience
 https://buttondown.email/dori/archive/introducing-elasticsearchnet-and-nest-100-beta1/|Introducing Elasticsearch.Net and NEST 1.0.0-beta1
 https://buttondown.email/dori/archive/youtubers-net-worth-tracker/|Youtubers Net Worth Tracker
+
+https://www.gettr.com/user/rothat | Rothat Gettr
