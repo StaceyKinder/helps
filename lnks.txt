@@ -1,30 +1,7 @@
-https://flote.app/user/devica|Flote Devica
-https://flote.app/user/aglaya|Flote Aglaya
-https://flote.app/user/kortang|Flote Kortang
+https://flote.app/user/devica<->Flote Devica
+https://flote.app/user/aglaya<->Flote Aglaya
+https://flote.app/user/kortang<->Flote Kortang
 
-https://www.instapaper.com/p/aglaya|Aglaya
-https://www.instapaper.com/p/devica|Devica
-https://www.instapaper.com/p/ezdach|Ezdach
-
-https://squeet.me/search?tag=eldiara|Eldiara
-https://libranet.de/search?tag=eldiara|Eldiara
-https://opensocial.at/search?tag=eldiara|Eldiara
-https://friendica.eskimo.com/search?tag=eldiara|Eldiara
-https://loma.ml/search?tag=eldiara|Eldiara
-
-https://diasp.org/tags/eldiara|Eldiara
-https://framasphere.org/tags/eldiara|Eldiara
-https://joindiaspora.com/tags/eldiara|Eldiara
-https://share.naturalnews.com/tags/eldiara|Eldiara
-https://poddery.com/tags/eldiara|Eldiara
-
-https://getmakerlog.com/milestones/the-best-music-downloader-narrvv|The best music downloader | Makerlog
-https://getmakerlog.com/milestones/how-to-download-free-songs-on-mp3syt-narrvv|How to download free songs? | Makerlog
-
-https://buttondown.email/dori/archive/is-music-freely-available-for-download/|Is music freely available for download?
-https://buttondown.email/dori/archive/introducing-elasticsearchnet-and-nest-100-beta1-290/|Introducing Elasticsearch.Net and NEST 1.0.0-beta1
-https://buttondown.email/dori/archive/early-computer-generated-music-fascinates/|Early computer-generated music fascinates international virtual audience
-https://buttondown.email/dori/archive/introducing-elasticsearchnet-and-nest-100-beta1/|Introducing Elasticsearch.Net and NEST 1.0.0-beta1
-https://buttondown.email/dori/archive/youtubers-net-worth-tracker/|Youtubers Net Worth Tracker
-
-https://www.gettr.com/user/rothat | Rothat Gettr
+https://www.instapaper.com/p/aglaya<->Aglaya
+https://www.instapaper.com/p/devica<->Devica
+https://www.instapaper.com/p/ezdach<->Ezdach
