@@ -2,3 +2,5 @@ http://roasted.email/<->10 Minute Mail - Secure Email Inbox
 http://chronicle.digital/<->10 Minute Mail RSS
 http://relike.email/<->10 Minutes Email Blog - Email Security
 http://lettrs.email<->The technology behind disposable email accounts
+https://www.litmus.com/blog/email-design-podcast-85-apple-mail-not-loading-last-images-and-an-interactive-checkout-email/<->Email Design Podcast #85: Apple Mail Not Loading Last Image and An Interactive Checkout Email - Litmus
+https://dev.to/andrepcg/building-roasted-email-temporary-emails-and-phone-numbers-3g48<->Building Roasted.email - Temporary emails and phone numbers - DEV Community
