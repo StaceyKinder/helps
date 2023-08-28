@@ -4,4 +4,4 @@ https://delog-w3layouts.netlify.app/temp-mail<->Get Temporary Email | Delog
 https://noti.st/stac<->Currency Strength Meter’s presentations on Notist
 https://jobhop.co.uk/blog/9610/dont-let-spam-emails-infect-your-computer-with-malware<->Don't Let Spam Emails Infect Your Computer With Malware
 https://doc.clickup.com/2420995/p/h/29w83-101/77ee95f4b1a916f/29w83-101<->The Power of Anonymity: A Deep-Dive into Disposable Temporary Emails
-https://www.papercall.io/speakers/101030/speaker_talks/254997-temporary-emails-your-shield-against-spam-and-phishing<->PaperCall.io - Temporary Emails - Your Shield Against Spam and Phishing
+https://www.papercall.io/speakers/stacey/speaker_talks/254997-temporary-emails-your-shield-against-spam-and-phishing<->PaperCall.io - Temporary Emails - Your Shield Against Spam and Phishing
